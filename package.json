@@ -1,6 +1,6 @@
 {
   "name": "ai-rtl-dsh",
-  "version": "1.1.5",
+  "version": "1.0.0",
   "description": "Smart RTL: AI RTL for DeepSeek Harness.",
   "keywords": [
     "deepseek-harness",
