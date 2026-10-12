@@ -15,7 +15,7 @@
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ali-saffari/AI-RTL-DSH.git"
+    "url": "https://github.com/ai-rtl/deepseek-harness-plugin.git"
   },
   "exports": {
     ".": "./dist/index.js",

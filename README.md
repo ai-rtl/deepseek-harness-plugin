@@ -43,7 +43,7 @@ Install the plugin through the graphical UI.
 Open **Plugins** in the sidebar, then **Install**, and enter this spec:
 
 ```
-github:ali-saffari/AI-RTL-DSH
+github:ai-rtl/deepseek-harness-plugin
 ```
 
 ### Web
@@ -57,7 +57,7 @@ Install through one of these methods:
 Open **Plugins** in the sidebar, then **Install**, and enter this spec:
 
 ```
-github:ali-saffari/AI-RTL-DSH
+github:ai-rtl/deepseek-harness-plugin
 ```
 
 **Method 2 — CLI**
@@ -65,7 +65,7 @@ github:ali-saffari/AI-RTL-DSH
 Run this in a terminal:
 
 ```bash
-dsh plugin --profile web add github:ali-saffari/AI-RTL-DSH
+dsh plugin --profile web add github:ai-rtl/deepseek-harness-plugin
 ```
 
 ## How it works
@@ -127,7 +127,7 @@ Bundled third-party: [Vazirmatn](fonts/OFL.txt) (SIL Open Font License), jQuery 
 از نوار کناری **Plugins** را باز کنید، سپس **Install**، و این مشخصه را وارد کنید:
 
 ```
-github:ali-saffari/AI-RTL-DSH
+github:ai-rtl/deepseek-harness-plugin
 ```
 
 ### نصب نسخه وب
@@ -141,7 +141,7 @@ github:ali-saffari/AI-RTL-DSH
 از نوار کناری **Plugins** را باز کنید، سپس **Install**، و این مشخصه را وارد کنید:
 
 ```
-github:ali-saffari/AI-RTL-DSH
+github:ai-rtl/deepseek-harness-plugin
 ```
 
 **روش دوم — CLI**
@@ -149,7 +149,7 @@ github:ali-saffari/AI-RTL-DSH
 در ترمینال این دستور را اجرا کنید:
 
 ```bash
-dsh plugin --profile web add github:ali-saffari/AI-RTL-DSH
+dsh plugin --profile web add github:ai-rtl/deepseek-harness-plugin
 ```
 
 ## چطور کار می‌کند
